@@ -1,4 +1,5 @@
 # DML & DDL
+SQL is not case sensitive
 ## DML
 ```
 SELECT
